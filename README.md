@@ -1,3 +1,6 @@
+Santosh Gaikwad
+
+
 ![kubernate logo](https://raw.githubusercontent.com/laurci/kubernate/master/docs/assets/logo_with_text.png)
 
 # Kubernetes + Generate = Kubernate❤️
